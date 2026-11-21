@@ -19,7 +19,7 @@ Berkant Cafer photographs street scenes, people, faces, urban detail and sculptu
 
 ![The About page on desktop](https://github.com/kubracanbay/berkantcafer-art/raw/ed168a536918d3eb27ab7900b7b0b0990480bc86/image.png)
 
-<p align="center"><img src="image.png" alt="The About page on mobile" width="300"></p>
+<p align="center"><img src="https://github.com/kubracanbay/berkantcafer-art/raw/681a9900154d53772818836d12be7f11a7776e82/image.png" alt="The About page on mobile" width="300"></p>
 
 ## How it was built
 
