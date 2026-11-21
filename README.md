@@ -15,6 +15,10 @@ Berkant Cafer photographs street scenes, people, faces, urban detail and sculptu
 - **About:** the photographer
 - Every page in English and Turkish
 
+## Screenshots
+
+![The About page on desktop](image.png)
+
 ## How it was built
 
 I built the site together with a computer engineer friend. We worked out the structure and design together, built it with the help of Claude, and tested it end to end before launch.
